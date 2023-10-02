@@ -1,3 +1,2 @@
 # Calculator using Html, CSS, Javascript
-
-# Open with live server
+Use live server to run the code
